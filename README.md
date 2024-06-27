@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I am Honggeun Kim
+I'm a graduate student at MIT at the Kavli Institute for Astrophysics. I developed a fast version of the radio interferometric measurement simulator by streamlining redundant calculations and parallelizing computationally extensive tasks [here](https://github.com/vispb/vispb). My work also includes extracting tomographic information from 3D images using Unet consisting of encoding and deconding brenches. I am particularly interested in a variety of machine learning techniques/applications including computer vision, natural language processing, reinforcement learning, generative models, etc.
 
 <!--
 **HonggeunKim/HonggeunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
